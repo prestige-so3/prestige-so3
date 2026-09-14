@@ -23,4 +23,25 @@
 <img width="120" height="200" alt="Screenshot_20260914_164757_ibisPaint_X" src="https://github.com/user-attachments/assets/fece33a6-5b8c-441f-aa27-72c2dc2dc10c" />
 </p>
 
+<h1></h1>
+
+<p align="center">
+<img width="268" height="268" alt="Baslksz2_20260914175841" src="https://github.com/user-attachments/assets/7a15bca7-48b7-4e9c-be6a-c9b9af440ef0" />
+  ⠀ ⠀ ⠀ ⠀ ⠀⠀
+<img width="268" height="268" alt="Baslksz2_20260914175817" src="https://github.com/user-attachments/assets/53398480-54cb-482d-9d7d-bfec58fe4940" />
+  ⠀ ⠀ ⠀ ⠀ ⠀⠀
+<img width="268" height="268" alt="Baslksz2_20260914175859" src="https://github.com/user-attachments/assets/dda622b2-36ee-4b3c-b7d9-22a5914360b9" />
+</p>
+
+<h1></h1>
+
+
+<p align="center">
+𝙘𝙧𝙚𝙙𝙨: @𝙨𝙥3.𝙜𝙡𝙖𝙯𝙚𝙧.𝙞𝙯𝙪𝙢𝙖 , @𝙨𝙝𝙞𝙯𝙪𝙡𝙞𝙡𝙞 , @𝙘𝙝𝙧𝙮𝙨𝙤𝙣𝙖𝙩𝙚 , @𝙘𝙖𝙙𝙖𝙚𝙩 𝙤𝙣 𝙩𝙩
+</p>
+
+
+
+
+
 
