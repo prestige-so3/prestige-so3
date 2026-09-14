@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prestige-so3&label=𝐬𝐭𝐚𝐫𝐬!&color=green" />
+  <img src="https://komarev.com/ghpvc/?username=prestige-so3&label=𝐬𝐭𝐚𝐫𝐬.&color=green" />
 </p>
 
 
