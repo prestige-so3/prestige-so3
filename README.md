@@ -6,6 +6,10 @@
 <img width="500" height="500" alt="Baslksz2_20260914164914" src="https://github.com/user-attachments/assets/3155d30b-697a-4f45-bf2b-cbd758d07777" />
 </p>
 
+<p align="center">
+<a href="https://kaysome.atabook.org/">𝘢𝘵𝘢𝘣𝘰𝘰𝘬</a> . <a href="https://kaykiez.straw.page/">𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦</a> . <a href="https://en.pronouns.page/@kaykies">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴𝘱𝘢𝘨𝘦</a> 
+</p>
+
 <h1></h1>
 
 <p align="center">
