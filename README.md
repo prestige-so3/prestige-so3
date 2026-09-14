@@ -1,6 +1,8 @@
 <p align="center">
-<img width="500" height="500" alt="So3!! creds to matrix for the orig enneahuman design and creds for the so3 art to the og artist!!" src="https://github.com/user-attachments/assets/8a68b1e8-31a6-40c9-8a0f-8c36901f2f54" />
+<img width="500" height="500" alt="Baslksz2_20260914164914" src="https://github.com/user-attachments/assets/3155d30b-697a-4f45-bf2b-cbd758d07777" />
 </p>
+
+<h1></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prestige-so3&label=𝐬𝐭𝐚𝐫𝐬.&color=green" />
@@ -8,7 +10,9 @@
 
 
 <p align="center">
-𝙬𝙞𝙥 𝙤𝙠? 𝙜𝙤𝙩 𝙩𝙤𝙤 𝙢𝙪𝙘𝙝 𝙬𝙤𝙧𝙠 𝙩𝙤 𝙙𝙤 𝙖𝙨 𝙩𝙝𝙚 𝙬𝙤𝙧𝙠𝙖𝙝𝙤𝙡𝙞𝙘 𝙛𝙧𝙚𝙖𝙠 𝙞 𝙖𝙢 𝙤𝙠?
+<img width="115" height="208" alt="Screenshot_20260914_164746_ibisPaint_X" src="https://github.com/user-attachments/assets/f47ffa32-aee5-46bf-a154-ec58171c63ee" />
+<img width="145" height="170" alt="Screenshot_20260914_164738_ibisPaint_X" src="https://github.com/user-attachments/assets/7cf3512f-e9d5-46f5-81a8-75624151fe03" />
+<img width="120" height="200" alt="Screenshot_20260914_164757_ibisPaint_X" src="https://github.com/user-attachments/assets/fece33a6-5b8c-441f-aa27-72c2dc2dc10c" />
 </p>
 
 
