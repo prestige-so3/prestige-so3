@@ -1,4 +1,8 @@
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=300&color=6FCA93&center=true&width=435&lines=%F0%9D%99%A8%F0%9D%99%AA%F0%9D%99%A3+%F0%9D%99%A8%F0%9D%99%9D%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9E%F0%9D%99%A3'+%F0%9D%99%9E%F0%9D%99%A9'%F0%9D%99%A8+%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A7;%F0%9D%99%9E%F0%9D%99%A9'%F0%9D%99%A8+%F0%9D%99%A9%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%A4%F0%9D%99%A7%F0%9D%99%A7%F0%9D%99%A4%F0%9D%99%AC;%F0%9D%99%97%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A+%F0%9D%99%AE%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%A8%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9B+%F0%9D%99%9E%F0%9D%99%A3+%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A+%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%9C%F0%9D%99%9D%F0%9D%99%A9%2C+%F0%9D%99%9E%F0%9D%99%A3+%F0%9D%99%AE%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A7+%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%9A;%EA%AD%97%E2%99%A5%F0%9D%98%B0" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
 <img width="500" height="500" alt="Baslksz2_20260914164914" src="https://github.com/user-attachments/assets/3155d30b-697a-4f45-bf2b-cbd758d07777" />
 </p>
 
