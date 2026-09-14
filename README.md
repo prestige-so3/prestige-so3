@@ -20,7 +20,7 @@
 <p align="center">
 <img width="115" height="208" alt="Screenshot_20260914_164746_ibisPaint_X" src="https://github.com/user-attachments/assets/f47ffa32-aee5-46bf-a154-ec58171c63ee" />
 <img width="145" height="170" alt="Screenshot_20260914_164738_ibisPaint_X" src="https://github.com/user-attachments/assets/7cf3512f-e9d5-46f5-81a8-75624151fe03" />
-<img width="120" height="200" alt="Screenshot_20260914_164757_ibisPaint_X" src="https://github.com/user-attachments/assets/fece33a6-5b8c-441f-aa27-72c2dc2dc10c" />
+<img width="115" height="200" alt="Screenshot_20260914_164757_ibisPaint_X" src="https://github.com/user-attachments/assets/fece33a6-5b8c-441f-aa27-72c2dc2dc10c" />
 </p>
 
 <h1></h1>
