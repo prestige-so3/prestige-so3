@@ -1,3 +1,6 @@
+<p align="center">
+<img width="500" height="500" alt="So3!! creds to matrix for the orig enneahuman design and creds for the so3 art to the og artist!!" src="https://github.com/user-attachments/assets/8a68b1e8-31a6-40c9-8a0f-8c36901f2f54" />
+</p>
 
 
 <p align="center">
