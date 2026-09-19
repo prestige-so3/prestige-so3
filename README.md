@@ -37,7 +37,7 @@
 
 
 <p align="center">
-𝘤𝘳𝘦𝘥𝘴: @𝘴𝘱3.𝘨𝘭𝘢𝘻𝘦𝘳.𝘪𝘻𝘶𝘮𝘢 @𝘴𝘩𝘪𝘻𝘶𝘭𝘪𝘭𝘪 @𝘤𝘩𝘳𝘺𝘴𝘰𝘯𝘢𝘵𝘦 @𝘤𝘢𝘥𝘢𝘦𝘵 𝘰𝘯 𝘵𝘵
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&color=2DC290&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9D%98%A4%F0%9D%98%B3%F0%9D%98%A6%F0%9D%98%A5%F0%9D%98%B4%3A%40%F0%9D%98%B4%F0%9D%98%B13.%F0%9D%98%A8%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%BB%F0%9D%98%A6%F0%9D%98%B3.%F0%9D%98%AA%F0%9D%98%BB%F0%9D%98%B6%F0%9D%98%AE%F0%9D%98%A2+%40%F0%9D%98%B4%F0%9D%98%A9%F0%9D%98%AA%F0%9D%98%BB%F0%9D%98%B6%F0%9D%98%AD%F0%9D%98%AA%F0%9D%98%AD%F0%9D%98%AA+%40%F0%9D%98%A4%F0%9D%98%A9%F0%9D%98%B3%F0%9D%98%BA%F0%9D%98%B4%F0%9D%98%B0%F0%9D%98%AF%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%A6+%40%F0%9D%98%A4%F0%9D%98%A2%F0%9D%98%A5%F0%9D%98%A2%F0%9D%98%A6%F0%9D%98%B5+%F0%9D%98%B0%F0%9D%98%AF+%F0%9D%98%B5%F0%9D%98%B5" alt="Typing SVG" /></a>
 </p>
 
 
