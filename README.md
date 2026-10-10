@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="Baslksz2_20260914164914" src="https://github.com/user-attachments/assets/3155d30b-697a-4f45-bf2b-cbd758d07777" />
+<img width="500" height="500" alt="Baslksz1_20261010195948" src="https://github.com/user-attachments/assets/e32eb440-abc8-4619-b736-f34168fe3494" />
 </p>
+
+
+
 
 <p align="center">
 <a href="https://kaysome.atabook.org/">𝘢𝘵𝘢𝘣𝘰𝘰𝘬</a> . <a href="https://kaykiez.straw.page/">𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦</a> . <a href="https://en.pronouns.page/@kaykies">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴𝘱𝘢𝘨𝘦</a> 
@@ -18,27 +21,16 @@
 
 
 <p align="center">
-  <img width="145" height="170" alt="Screenshot_20260914_164738_ibisPaint_X" src="https://github.com/user-attachments/assets/7cf3512f-e9d5-46f5-81a8-75624151fe03" />
-<img width="115" height="208" alt="Screenshot_20260914_164746_ibisPaint_X" src="https://github.com/user-attachments/assets/f47ffa32-aee5-46bf-a154-ec58171c63ee" />
-<img width="115" height="200" alt="Screenshot_20260914_164757_ibisPaint_X" src="https://github.com/user-attachments/assets/fece33a6-5b8c-441f-aa27-72c2dc2dc10c" />
-</p>
+ <img width="145" height="170" alt="Baslksz1_20261010195815" src="https://github.com/user-attachments/assets/15c66874-269d-4e1a-92fe-7a0aa5a84afe" />
 
-<h1></h1>
+<img width="125" height="180" alt="Baslksz1_20261010195742" src="https://github.com/user-attachments/assets/97073d83-35c8-46ba-a038-195e51c00e77" />
 
-<p align="center">
-<img width="168" height="168" alt="Baslksz2_20260914175841" src="https://github.com/user-attachments/assets/7a15bca7-48b7-4e9c-be6a-c9b9af440ef0" />
-  ⠀ ⠀ ⠀ ⠀ ⠀
-<img width="168" height="168" alt="Baslksz2_20260914175817" src="https://github.com/user-attachments/assets/53398480-54cb-482d-9d7d-bfec58fe4940" />
-  ⠀ ⠀ ⠀ ⠀ ⠀
-<img width="168" height="168" alt="Baslksz2_20260914175859" src="https://github.com/user-attachments/assets/dda622b2-36ee-4b3c-b7d9-22a5914360b9" />
+<img width="115" height="200" alt="Baslksz1_20261010195830" src="https://github.com/user-attachments/assets/650cacd7-3181-4ec5-bd23-959e132132c6" />
 </p>
 
 <h1></h1>
 
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&color=2DC290&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9D%98%A4%F0%9D%98%B3%F0%9D%98%A6%F0%9D%98%A5%F0%9D%98%B4%3A%40%F0%9D%98%B4%F0%9D%98%B13.%F0%9D%98%A8%F0%9D%98%AD%F0%9D%98%A2%F0%9D%98%BB%F0%9D%98%A6%F0%9D%98%B3.%F0%9D%98%AA%F0%9D%98%BB%F0%9D%98%B6%F0%9D%98%AE%F0%9D%98%A2+%40%F0%9D%98%B4%F0%9D%98%A9%F0%9D%98%AA%F0%9D%98%BB%F0%9D%98%B6%F0%9D%98%AD%F0%9D%98%AA%F0%9D%98%AD%F0%9D%98%AA+%40%F0%9D%98%A4%F0%9D%98%A9%F0%9D%98%B3%F0%9D%98%BA%F0%9D%98%B4%F0%9D%98%B0%F0%9D%98%AF%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%A6+%40%F0%9D%98%A4%F0%9D%98%A2%F0%9D%98%A5%F0%9D%98%A2%F0%9D%98%A6%F0%9D%98%B5+%F0%9D%98%B0%F0%9D%98%AF+%F0%9D%98%B5%F0%9D%98%B5" alt="Typing SVG" /></a>
-</p>
 
 
 
