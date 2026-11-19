@@ -21,11 +21,12 @@
 
 
 <p align="center">
- <img width="145" height="170" alt="Baslksz1_20261010195815" src="https://github.com/user-attachments/assets/15c66874-269d-4e1a-92fe-7a0aa5a84afe" />
+<img width="170" height="240" alt="Baslksz6_202611191509451" src="https://github.com/user-attachments/assets/90a45d3a-bfd7-4b64-a99b-d0ea7797c376" />
 
-<img width="125" height="180" alt="Baslksz1_20261010195742" src="https://github.com/user-attachments/assets/97073d83-35c8-46ba-a038-195e51c00e77" />
+<img width="180" height="280" alt="Baslksz6_202611191509452" src="https://github.com/user-attachments/assets/2b37478b-a6b1-4b99-9876-1c9d9da9b170" />
 
-<img width="115" height="200" alt="Baslksz1_20261010195830" src="https://github.com/user-attachments/assets/650cacd7-3181-4ec5-bd23-959e132132c6" />
+<img width="200" height="270" alt="Baslksz6_20261119150945" src="https://github.com/user-attachments/assets/35b196a7-ca6c-45f5-967d-92dcffceaf06" />
+
 </p>
 
 <h1></h1>
