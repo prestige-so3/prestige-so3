@@ -23,9 +23,9 @@
 <p align="center">
 <img width="170" height="240" alt="Baslksz6_202611191509451" src="https://github.com/user-attachments/assets/90a45d3a-bfd7-4b64-a99b-d0ea7797c376" />
 
-<img width="180" height="280" alt="Baslksz6_202611191509452" src="https://github.com/user-attachments/assets/2b37478b-a6b1-4b99-9876-1c9d9da9b170" />
+<img width="185" height="280" alt="Baslksz6_202611191509452" src="https://github.com/user-attachments/assets/2b37478b-a6b1-4b99-9876-1c9d9da9b170" />
 
-<img width="200" height="270" alt="Baslksz6_20261119150945" src="https://github.com/user-attachments/assets/35b196a7-ca6c-45f5-967d-92dcffceaf06" />
+<img width="205" height="265" alt="Baslksz6_20261119150945" src="https://github.com/user-attachments/assets/35b196a7-ca6c-45f5-967d-92dcffceaf06" />
 
 </p>
 
