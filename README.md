@@ -16,7 +16,7 @@
 <h1></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prestige-so3&label=𝐬𝐭𝐚𝐫𝐬.&color=63A5B0" />
+  <img src="https://komarev.com/ghpvc/?username=prestige-so3&label=𝐬𝐭𝐚𝐫𝐬.&color=63A5B0&base=80000" />
 </p>
 
 
